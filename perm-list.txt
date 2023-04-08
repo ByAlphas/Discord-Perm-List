@@ -1,0 +1,41 @@
+CREATE_INSTANT_INVITE (Sunucuya davetiyeler oluşturun)
+KICK_MEMBERS
+BAN_MEMBERS
+ADMINISTRATOR (Sunucudaki tüm dahili izinlere sahiptir)
+MANAGE_CHANNELS (Kanalları düzenleyin ve yeniden sıralayın)
+MANAGE_GUILD (Sunucu bilgilerini, bölgeyi vb. düzenleyin)
+ADD_REACTIONS (Mesajlara yeni tepkiler ekleyin)
+VIEW_AUDIT_LOG
+PRIORITY_SPEAKER
+STREAM
+VIEW_CHANNEL
+SEND_MESSAGES
+SEND_TTS_MESSAGES
+MANAGE_MESSAGES (Mesajları ve tepkileri silin)
+EMBED_LINKS (Yayınlanan bağlantıların gömülü önizlemesi olacaktır)
+ATTACH_FILES
+READ_MESSAGE_HISTORY (Discord açılmadan önce gönderilen mesajları görüntüleyin)
+MENTION_HEVERYONE
+USE_EXTERNAL_EMOJIS (Farklı sunuculardan emojiler kullanın)
+VIEW_GUILD_INSIGHTS
+CONNECT (Bir ses kanalına bağlanın)
+SPEAK (Bir ses kanalında konuşun)
+MUTE_MEMBERS (Tüm ses kanallarında üyeleri sessize alın)
+DEAFEN_MEMBERS (Tüm ses kanallarında üyeleri sağır edin)
+MOVE_MEMBERS (Üyeleri ses kanalları arasında taşıma)
+USE_VAD (Ses etkinliği algılama)
+CHANGE_NICKNAME
+MANAGE_NICKNAMES (Diğer üyelerin takma adını değiştir)
+MANAGE_ROLES
+MANAGE_WEBHOOKS
+MANAGE_EMOJIS_AND_STICKERS
+USE_APPLICATION_COMMANDS
+REQUEST_TO_SPEAK
+MANAGE_EVENTS
+MANAGE_THREADS
+CREATE_PUBLIC_THREADS
+CREATE_PRIVATE_THREADS
+USE_EXTERNAL_STICKERS (Farklı sunucularda çıkartma kullanma)
+SEND_MESSAGES_IN_THREADS
+START_EMBEDDED_ACTIVITIES
+MODERATE_MEMBERS
