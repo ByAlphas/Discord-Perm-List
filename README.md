@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/discord/918611797194465280.svg?label=Discord%20Server:&logo=discord&color=5865F2"><br>
     </a>
     <a style="font-size:15px;font-family:verdana"><b>Dil:</b></a><br>
-    <img src="https://img.shields.io/badge/JavaScript-100000?label=Kullanılan%20dil:&style=flat&logo=javascript&color=yellow">
+    <img src="https://img.shields.io/badge/JavaScript-100000?label=Made%20with:&style=flat&logo=javascript&color=yellow">
     <br>
     <a style="font-size:15px;font-family:verdana"><b>İndir:</b></a><br>
     <a href="https://github.com/ByAlphas/Discord-Perm-List">
