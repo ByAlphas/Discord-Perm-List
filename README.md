@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/issues/ByAlphas/Discord-Perm-List?label=Issues&color=red&logo=ifixit&logoColor=red">
     <br>
     <a style="font-size:15px;font-family:verdana"><b>Discord Sunucumuz:</b></a><br>
-    <a href="https://discord.gg/bdfd">
+    <a href="https://discord.gg/GZND4fxcc6">
         <img src="https://img.shields.io/discord/918611797194465280.svg?label=Discord%20Server:&logo=discord&color=5865F2"><br>
     <a/>
     <br/>
