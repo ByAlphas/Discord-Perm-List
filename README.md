@@ -112,6 +112,6 @@ This approach supports modular, scalable server setups, ideal for enterprise-sty
 
 ---
 
-## © 2025 • Created by Alpha.
+## © 2025 • Created by Alpha
 ```
 I wish you good use, I hope I could help. I would be very happy if you give me a star <3
