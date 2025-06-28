@@ -1,0 +1,41 @@
+ADMINISTRATOR                    Grants all permissions and bypasses all channel restrictions.
+MANAGE_GUILD                     Allows managing server settings (name, region, integrations, etc.).
+MANAGE_ROLES                     Allows creating, editing, and deleting roles lower than your own.
+MANAGE_CHANNELS                  Allows creating, editing, and deleting channels.
+MANAGE_WEBHOOKS                  Allows managing webhooks.
+MANAGE_GUILD_EXPRESSIONS         Allows managing emojis, stickers, and soundboard sounds.
+VIEW_AUDIT_LOG                   Allows viewing the server's audit logs.
+VIEW_GUILD_INSIGHTS              Allows viewing server analytics and insights.
+KICK_MEMBERS                     Allows kicking members from the server.
+BAN_MEMBERS                      Allows banning members from the server.
+MODERATE_MEMBERS                 Allows timing out members.
+MANAGE_NICKNAMES                 Allows changing other users' nicknames.
+MANAGE_MESSAGES                  Allows deleting or pinning messages from others.
+MANAGE_THREADS                   Allows managing threads (rename, archive, delete).
+CREATE_EXPRESSIONS               Allows uploading emojis, stickers, and soundboard sounds.
+MENTION_EVERYONE                 Allows using @everyone, @here, and all role mentions.
+MUTE_MEMBERS                     Allows muting members in voice channels.
+DEAFEN_MEMBERS                   Allows deafening members in voice channels.
+MOVE_MEMBERS                     Allows moving members between voice channels.
+PRIORITY_SPEAKER                 Lowers the volume of others when you speak.
+MANAGE_EVENTS                    Allows editing and deleting scheduled events.
+CREATE_EVENTS                    Allows creating scheduled events.
+USE_APPLICATION_COMMANDS         Allows using slash commands from bots and apps.
+USE_EXTERNAL_SOUNDS              Allows using soundboard sounds from other servers.
+USE_SOUNDBOARD                   Allows using the soundboard in voice channels.
+EMBED_LINKS                      Allows embedding links in messages.
+ATTACH_FILES                     Allows uploading files.
+ADD_REACTIONS                    Allows adding emoji reactions to messages.
+USE_EXTERNAL_EMOJIS              Allows using emojis from other servers.
+USE_EXTERNAL_STICKERS            Allows using stickers from other servers.
+SEND_MESSAGES                    Allows sending messages in text channels.
+SEND_MESSAGES_IN_THREADS         Allows sending messages in threads.
+CREATE_PUBLIC_THREADS            Allows creating public threads.
+CREATE_PRIVATE_THREADS           Allows creating private threads.
+CHANGE_NICKNAME                  Allows changing your own nickname.
+VIEW_CHANNEL                     Allows viewing channels.
+CONNECT                          Allows joining voice channels.
+SPEAK                            Allows speaking in voice channels.
+STREAM                           Allows sharing video or screen.
+USE_VAD                          Allows using voice activity detection.
+CREATE_INSTANT_INVITE            Allows creating invite links.
